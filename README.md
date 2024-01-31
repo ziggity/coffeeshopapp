@@ -77,3 +77,16 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# dependencies
+
+- zustand (routing and update app with current data of the store) and also light weight library and fast. webhook based. 
+- immer (helps update the nested object store), helps update store and deep levels. 
+- linear gradient vector icons
+- lottie re active 
+
+# terminal commands used: 
+
+- $ npx react-native init coffee_shop_app (this downloads a template for react native and creates a folder called coffee_shop_app with the react native template)
+- npm i zustand 
+-  npm i immer
